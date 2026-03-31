@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "base_track": "ストロー",
+  "base_artist": "aiko",
+  "createdAt": "2026-03-31T05:05:05.609011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/01_ストロー_aiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/02_ストロー_aiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストロー - Straw",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/03_ストロー_-_Straw_aiko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ストロー・タッチの恋",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/04_ストロー・タッチの恋_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ストロー・タッチの恋 (Original Karaoke)",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/05_ストロー・タッチの恋_(Original_Karaoke)_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "aiko- 『ストロー』music video",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/06_aiko-_『ストロー』music_video_aiko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/07_ストロー_aiko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/08_ストロー_aiko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ストロー (instrumental)",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/09_ストロー_(instrumental)_aiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_ストロー_aiko.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/localdb_01_ストロー_aiko.lrc",
+      "repo_name": "t5gbZCkpYmI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ストロー",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/localdb_02_ストロー_aiko.txt",
+      "repo_name": "_gxGkSkuQIM"
+    }
+  ]
+}
